@@ -1,6 +1,6 @@
 {
   "name": "flexible-version-compare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compare two version strings",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
