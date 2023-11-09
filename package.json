@@ -9,6 +9,7 @@
     "prebuild": "yarn lint",
     "build": "rimraf dist && rollup -c",
     "clean": "rimraf dist",
+    "lint": "eslint . --ext .ts",
     "test": "jest",
     "prettier": "prettier --config .prettierrc --write .",
     "prepare": "husky install"
